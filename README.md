@@ -6,7 +6,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡  &nbsp;Since I discovered the world of programming, I have not stopped training.\
+💡  &nbsp; Since I discovered the world of programming, I have not stopped training.\
 🎓 &nbsp;I am currently studying a higher degree in web application development and the 42 Malaga course.\
 🌱 &nbsp;The world of task automation has been of great interest to me for some time now.\
 ✍️ &nbsp;I have also taken several courses in cybersecurity.
