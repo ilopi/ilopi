@@ -8,8 +8,10 @@
 
 💡  &nbsp; Since I discovered the world of programming, I have not stopped training.\
 🎓 &nbsp;I am currently studying a higher degree in web application development and the 42 Malaga course.\
+<!--
 🌱 &nbsp;The world of task automation has been of great interest to me for some time now.\
 ✍️ &nbsp;I have also taken several courses in cybersecurity.
+-->
 <!--
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
