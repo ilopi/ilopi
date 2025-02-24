@@ -1,6 +1,6 @@
 <!--![Aditya Vikram Singh Banner](https://i.pinimg.com/originals/72/0c/c4/720cc43d757ee638ad5054a05220fafe.gif)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>👋 Hey there! I'm Isabel Sánchez López / ilopi</h2>
+img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>👋 Hey there! I'm Isabel Sánchez López / ilopi</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Isabel Sánchez López / ilopi -->
 
@@ -68,7 +68,8 @@
 
 
 
-# 👋 ¡Hola, mundo! Soy Isabel Sánchez López / ilopi  
+
+img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>👋 Hey there! I'm Isabel Sánchez López / ilopi</h2>
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/>
 
