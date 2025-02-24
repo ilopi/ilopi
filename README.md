@@ -77,7 +77,9 @@ img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><
 Soy una apasionada del mundo de la programación y la tecnología. Mi camino comenzó en una disciplina completamente diferente, pero mi curiosidad y ganas de aprender me llevaron a descubrir el desarrollo de software, y desde entonces, no he parado.  
 
 💡 Actualmente, me estoy especializando en **desarrollo ABAP en SAP**, un área en la que quiero crecer profesionalmente.  
+
 🎓 Estoy cursando el **Grado Superior en Desarrollo de Aplicaciones Web en ILERNA (2023-2025)**, y además formándome en **ABAP para SAP** con el programa **Desarrollador SAP ABAP - IFCT131** en Seidor y Avante.  
+
 🔍 En búsqueda de oportunidades para aplicar mis conocimientos y realizar mis prácticas en el entorno SAP.  
 
 ---
@@ -110,8 +112,10 @@ Soy una apasionada del mundo de la programación y la tecnología. Mi camino com
 ---
 
 ## 🌱 En qué estoy trabajando actualmente  
-- 📚 **Formándome en ABAP para SAP** y reforzando mis conocimientos en ERP.  
-- 🎓 Cursando el **Grado Superior en Desarrollo de Aplicaciones Web (DAW)**.  
+- 📚 **Formándome en ABAP para SAP** y reforzando mis conocimientos en ERP.
+
+- 🎓 Cursando el **Grado Superior en Desarrollo de Aplicaciones Web (DAW)**.
+  
 - 🔍 **Buscando oportunidades** para realizar mis prácticas en una empresa del entorno SAP.  
 
 ---
